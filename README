@@ -10,9 +10,9 @@
 ;; Representation of the clock puzzle
 ;; ----------------------------------------------------------------------------
 ;;
-;; We represent the clock as an association list where keys indicate the
+;; We represent the clock as an association list where the keys indicate the
 ;; position in the clock and the values are numbers given by the game for each
-;; vertice. The initial position of a key is arbitrary but we start counting
+;; vertex. The initial position of a key is arbitrary but we start counting
 ;; from zero.
 ;;
 ;; Below is an example of a clock with 4 vertices:
